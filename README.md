@@ -1,4 +1,4 @@
-# Vijay ❤ Rashima — Wedding Invitation Website
+# Shivam ❤ Prachi — Wedding Invitation Website
 
 A mobile-first wedding invite built for sharing on WhatsApp. It's a plain static site (HTML/CSS/JS) with no build step, so it loads fast and you can host it anywhere for free.
 
